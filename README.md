@@ -1,3 +1,1 @@
-This is a C++ for Ardunio.
-
-Good Luck Coders
+C++ code for Ardunio. Please use only for model 2.10.9 of IDE. !!ONLY COMPATIBLE THERE!!  . Important notice to remember to connected the port back to the terminal after connects to quan3. For compatibility please use either quan 3-4-5-6 any other external connecting ports may short circuit,
